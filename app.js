@@ -1,6 +1,6 @@
 console.log("server will run here");
 console.log(new Date());
-
+console.log("added line 3");
 
 // create a git repo
 // add .readme .gitignore FileSystem
