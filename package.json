@@ -1,0 +1,20 @@
+{
+  "name": "newrepo",
+  "version": "1.0.0",
+  "description": "This is a project for nodejs express app. \r We will run a server on this repositery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2003Anahika/NewRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2003Anahika/NewRepo/issues"
+  },
+  "homepage": "https://github.com/2003Anahika/NewRepo#readme"
+}
