@@ -1,6 +1,15 @@
 console.log("server will run here");
 console.log(new Date());
 console.log("added line 3");
+const app = require('express')();
+
+app.get("/", (req,res) => {
+    res.json({ message : "server on aws running"})
+})
+
+app.listen(7000, () => { 
+    console.log("server on post 7000");
+})
 
 // create a git repo
 // add .readme .gitignore FileSystem

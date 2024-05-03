@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/2003Anahika/NewRepo/issues"
   },
-  "homepage": "https://github.com/2003Anahika/NewRepo#readme"
+  "homepage": "https://github.com/2003Anahika/NewRepo#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
