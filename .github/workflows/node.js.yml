@@ -30,4 +30,4 @@ jobs:
     - run: npm run build --if-present
     - run: npm test
     - run: node app.js
-    - run: pm2 restart app
+    - run: sudo pm2 restart app.js
